@@ -1,2 +1,2 @@
 # Economia-Python
-Módulo de aprendizaje de python para su uso en economía
+Aprendiendo el uso de python para su uso en economía
